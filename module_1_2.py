@@ -13,5 +13,5 @@ iNumberTasks = 12
 fNumberHours = 1.5
 sCourseTitle = "Python"
 fTimePerTask = fNumberHours / iNumberTasks
-print("Курс:", sCourseTitle, ", всего задач:", iNumberTasks, " затрачено часов:", fNumberHours, ", среднее время выполнения ", fTimePerTask)
+print("Курс:", sCourseTitle, ", всего задач:", iNumberTasks, " затрачено часов:", fNumberHours, ", среднее время выполнения ", fTimePerTask, "часа")
 
