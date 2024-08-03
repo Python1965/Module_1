@@ -18,6 +18,6 @@ print("Количество символов строки:", len(my_string))
 print(my_string.upper())
 print(my_string.lower())
 
-my_string_new = print(my_string.replace(' ', ''))
+my_string_new = my_string.replace(' ', '')
 print(my_string_new[0])
 print(my_string_new[-1])
