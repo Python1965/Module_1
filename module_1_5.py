@@ -17,7 +17,7 @@
 
 #2
 immutable_var = (5, "snow", False)
-print(immutable_var)
+print("immutable tuple:", immutable_var)
 
 #3
 #immutable_var[1] = "ERROR"
@@ -27,5 +27,5 @@ mutable_list = ["rhinoceros", [3,2,5], False]
 mutable_list[0] = "hippopotamus"
 mutable_list[1] = True
 mutable_list[2] = 71.
-print(mutable_list)
+print("Mutable list: ", mutable_list)
 
