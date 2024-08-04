@@ -21,6 +21,7 @@ print("immutable tuple:", immutable_var)
 
 #3
 #immutable_var[1] = "ERROR"
+# Кортех -неизменняемый тип данных. Не работает таким образом
 
 #4
 mutable_list = ["rhinoceros", [3,2,5], False]
